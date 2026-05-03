@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "rất bot mess=))"
+  },
+  {
+    "role": "assistant",
+    "content": "Ủa cậu nói “rất bot mess” là gì? 😅  Có hơi spam nhỉ? Cậu muốn tắt đi?"
+  },
+  {
+    "role": "user",
+    "content": "Đây là danh sách bài hát trên SoundCloud mà tôi tìm thấy:\nHãy trả lời tin nhắn này với số index của bài hát bạn muốn tìm!"
+  },
+  {
+    "role": "assistant",
+    "content": "Có vẻ mình chưa thấy danh sách đó rồi, mời chia sẻ nha 😢"
+  },
+  {
+    "role": "user",
+    "content": ",quote"
+  },
+  {
+    "role": "assistant",
+    "content": "cảm ơn anh gửi link, nghe có vibe chill, tớ thấy à~ 😎"
+  },
+  {
+    "role": "user",
+    "content": "https://sex.launa.rf.gd/ai/voices?lang=&gender=&q="
+  },
+  {
+    "role": "assistant",
+    "content": "Link nào vậy? Có gì hay? 😠"
+  },
+  {
+    "role": "user",
+    "content": "hay chớ"
+  },
+  {
+    "role": "assistant",
+    "content": "Cứ cứ hay chớ, mình anh đâu nha."
+  }
+]

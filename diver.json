@@ -1,0 +1,16 @@
+{
+  "client_id": "903072640503-71fuv70d1bt2kef5h49ub4cql20ps385.apps.googleusercontent.com",
+  "client_secret": "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",
+  "ngrok_token": "3BlH67JkHUoKdaem58isx8eKd8H_5b7sBCrQihHZfaMm2aYaw",
+  "ngrok_domain": "telegraphical-catrina-uniplanar.ngrok-free.dev",
+  "refresh_token": "1//0gJr7UVL9aOS9CgYIARAAGBASNwF-L9IrtvQGZgJyvEbeA9ZmTV1G9GfkVv10fiMpfGqHEg565ig-sG_LGk7WbohWwauZU8407rA",
+  "access_token": null,
+  "token_type": "Bearer",
+  "expiry_date": null,
+  "email": null,
+  "saved_at": "2026-04-13T12:01:26.084Z",
+  "last_refreshed": "2026-04-20T02:00:22.329Z",
+  "drive_auth_invalid": true,
+  "drive_auth_invalid_at": "2026-04-22T23:33:33.065Z",
+  "drive_auth_invalid_reason": "invalid_grant"
+}

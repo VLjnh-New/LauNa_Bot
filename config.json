@@ -1,0 +1,19 @@
+{
+  "bot": {
+    "prefix": ".",
+    "selfListen": true,
+    "autoAcceptInvites": false,
+    "adminOnly": true
+  },
+  "credentials": {
+    "imei": "958c2e61-b5cb-468b-b3ed-1598aa37d431-a69b52f9d7f760edf3fd052bcda2542f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  "admin": {
+    "ids": [
+      "634881825118942127",
+      "6024931307373526012"
+    ]
+  },
+  "storage": "diver"
+}

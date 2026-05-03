@@ -1,0 +1,92 @@
+{
+  "groups": {
+    "9176300605344420664": {
+      "threadType": 1,
+      "registeredBy": "6024931307373526012",
+      "registeredByName": "Đặng Lịnh",
+      "registeredAt": 1776606712207,
+      "events": {
+        "pokemon": true,
+        "dnd": true
+      }
+    },
+    "9021491468643662674": {
+      "threadType": 1,
+      "registeredBy": "6024931307373526012",
+      "registeredByName": "Đặng Lịnh",
+      "registeredAt": 1776612518709,
+      "events": {
+        "pokemon": true,
+        "dnd": true
+      }
+    }
+  },
+  "activeBosses": {
+    "9176300605344420664_pk": {
+      "species": {
+        "dexId": 150,
+        "name": "Mewtwo",
+        "types": [
+          "Psychic"
+        ],
+        "baseStats": {
+          "hp": 106,
+          "atk": 110,
+          "def": 90,
+          "spa": 154,
+          "spd": 90,
+          "spe": 130
+        },
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "evolutions": [],
+        "description": "Mewtwo là sản phẩm từ quá trình thao tác mã di truyền. Khoa học tiến bộ của loài người dẫu đã làm nên cơ thể nó, nhưng lại thất bại trong việc tạo ra một trái tim trắc ẩn.",
+        "ogImage": "https://vn.portal-pokemon.com/play/resources/pokedex/img/pm/ad7ffb53f984a6623c53f01cfbc06fc8565ecbd4.png",
+        "types_vi": [
+          "hệ Siêu Linh"
+        ],
+        "height": "2.0 m",
+        "weight": "122.0 kg",
+        "category": "Pokémon Di Truyền",
+        "namePortal": "Mewtwo"
+      },
+      "hp": 386,
+      "maxHp": 386,
+      "expiresAt": 1776906914567,
+      "participants": {},
+      "phase": "active"
+    },
+    "9021491468643662674_pk": {
+      "species": {
+        "dexId": 150,
+        "name": "Mewtwo",
+        "types": [
+          "Psychic"
+        ],
+        "baseStats": {
+          "hp": 106,
+          "atk": 110,
+          "def": 90,
+          "spa": 154,
+          "spd": 90,
+          "spe": 130
+        },
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "evolutions": [],
+        "description": "Mewtwo là sản phẩm từ quá trình thao tác mã di truyền. Khoa học tiến bộ của loài người dẫu đã làm nên cơ thể nó, nhưng lại thất bại trong việc tạo ra một trái tim trắc ẩn.",
+        "ogImage": "https://vn.portal-pokemon.com/play/resources/pokedex/img/pm/ad7ffb53f984a6623c53f01cfbc06fc8565ecbd4.png",
+        "types_vi": [
+          "hệ Siêu Linh"
+        ],
+        "height": "2.0 m",
+        "weight": "122.0 kg",
+        "category": "Pokémon Di Truyền",
+        "namePortal": "Mewtwo"
+      },
+      "hp": 302,
+      "maxHp": 302,
+      "expiresAt": 1776906916358,
+      "participants": {},
+      "phase": "active"
+    }
+  }
+}

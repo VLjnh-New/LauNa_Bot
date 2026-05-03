@@ -1,0 +1,123 @@
+{
+  "players": {
+    "6024931307373526012": {
+      "name": "Người chơi",
+      "joinedAt": 1776884418927,
+      "pk": {
+        "credits": 200,
+        "pokemons": [],
+        "maxBoxSize": 30,
+        "inventory": {
+          "pokeball": 3,
+          "greatball": 2,
+          "ultraball": 0,
+          "exp_candy_s": 0,
+          "exp_candy_m": 0,
+          "rename_tag": 0,
+          "box_upgrade": 0
+        },
+        "stats": {
+          "caught": 0,
+          "shinyCaught": 0,
+          "duelsWon": 0,
+          "duelsLost": 0
+        },
+        "cooldowns": {
+          "daily": 1776604515752
+        }
+      },
+      "dnd": {
+        "heroClass": null,
+        "heroLevel": 1,
+        "totalXp": 0,
+        "totalGold": 0,
+        "kills": 0,
+        "dungeonsCleared": 0,
+        "bestDungeon": 0,
+        "lastPlayed": 0
+      },
+      "gs": {
+        "pkBossKills": 0,
+        "dndBossKills": 0,
+        "totalDmg": 0,
+        "totalGold": 0,
+        "totalXp": 0,
+        "raidCount": 0,
+        "mvpCount": 0,
+        "history": []
+      }
+    }
+  },
+  "spawns": {
+    "9176300605344420664_rush_0": {
+      "dexId": 133,
+      "createdAt": 1776906014565,
+      "expiresAt": 1776906314565,
+      "rushSlot": 0,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_1": {
+      "dexId": 134,
+      "createdAt": 1776906014565,
+      "expiresAt": 1776906314565,
+      "rushSlot": 1,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_2": {
+      "dexId": 26,
+      "createdAt": 1776906014565,
+      "expiresAt": 1776906314565,
+      "rushSlot": 2,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_3": {
+      "dexId": 52,
+      "createdAt": 1776906014565,
+      "expiresAt": 1776906314565,
+      "rushSlot": 3,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_4": {
+      "dexId": 26,
+      "createdAt": 1776906014565,
+      "expiresAt": 1776906314565,
+      "rushSlot": 4,
+      "tid": "9176300605344420664"
+    },
+    "9021491468643662674_rush_0": {
+      "dexId": 134,
+      "createdAt": 1776906016449,
+      "expiresAt": 1776906316449,
+      "rushSlot": 0,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_1": {
+      "dexId": 39,
+      "createdAt": 1776906016449,
+      "expiresAt": 1776906316449,
+      "rushSlot": 1,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_2": {
+      "dexId": 64,
+      "createdAt": 1776906016449,
+      "expiresAt": 1776906316449,
+      "rushSlot": 2,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_3": {
+      "dexId": 9,
+      "createdAt": 1776906016449,
+      "expiresAt": 1776906316449,
+      "rushSlot": 3,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_4": {
+      "dexId": 63,
+      "createdAt": 1776906016449,
+      "expiresAt": 1776906316449,
+      "rushSlot": 4,
+      "tid": "9021491468643662674"
+    }
+  }
+}

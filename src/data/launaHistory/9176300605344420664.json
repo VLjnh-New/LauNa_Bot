@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "tag giúp xuan bach lên với"
+  },
+  {
+    "role": "assistant",
+    "content": "@Xuân Bách lên đây đi."
+  },
+  {
+    "role": "user",
+    "content": "tag thằng bach lên đây"
+  },
+  {
+    "role": "assistant",
+    "content": "Tớ không tag người khác khi bị ra lệnh thô lỗ."
+  },
+  {
+    "role": "user",
+    "content": "tag giúp bach lên với"
+  },
+  {
+    "role": "assistant",
+    "content": "@Xuan Bach lên đi."
+  },
+  {
+    "role": "user",
+    "content": "-bug"
+  },
+  {
+    "role": "assistant",
+    "content": "Đã nhận được báo cáo lỗi, sẽ xem lại. ⏳"
+  },
+  {
+    "role": "user",
+    "content": "-bug"
+  },
+  {
+    "role": "assistant",
+    "content": "Đã nhận báo cáo lỗi, xem lại. ⏳"
+  },
+  {
+    "role": "user",
+    "content": "info"
+  },
+  {
+    "role": "assistant",
+    "content": "-bug\n\nTớ đã ghi nhận lỗi và đang xem lại. ⏳"
+  },
+  {
+    "role": "user",
+    "content": "DEBUG BUG:\n{\n  \"ownerId\": \"6886218506945755085\",\n  \"cliMsgId\": 1776608969503,\n  \"globalMsgId\": 7742506672609,\n  \"cliMsgType\": 1,\n  \"ts\": 1776608969530,\n  \"msg\": \"Launa info\",\n  \"attach\": {\n    \"color\": -1,\n    \"size\": -1,\n    \"type\": -1,\n    \"subType\": 0,\n    \"ext\": {\n      \"sSrcType\": -1,\n      \"sSrcStr\": \"\",\n      \"msg_warning_type\": 0,\n      \"emoji\": {\n        \"content\": 0,\n        \"num\": 0,\n        \"uniq\": 0,\n        \"first\": \"\",\n        \"last\": \"\",\n        \"most\": \"\",\n        \"text\": 1\n    "
+  },
+  {
+    "role": "assistant",
+    "content": "Ai muốn info?"
+  },
+  {
+    "role": "user",
+    "content": "gi day\ngi day"
+  },
+  {
+    "role": "assistant",
+    "content": "Haha, gi day? Bạn muốn làm gì với ảnh này?"
+  },
+  {
+    "role": "user",
+    "content": "-bug"
+  },
+  {
+    "role": "assistant",
+    "content": "Cái gì? Bạn muốn biết điều gì?"
+  },
+  {
+    "role": "user",
+    "content": "https://sex.launa.rf.gd/ai/anime2real?apikey=VLjnh-26&url="
+  },
+  {
+    "role": "assistant",
+    "content": "Không được chia sẻ liên kết này"
+  }
+]

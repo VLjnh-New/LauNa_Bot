@@ -1,0 +1,99 @@
+{
+  "users": {
+    "6024931307373526012": {
+      "credits": 200,
+      "pokemons": [],
+      "maxBoxSize": 30,
+      "inventory": {
+        "pokeball": 3,
+        "greatball": 2,
+        "ultraball": 0,
+        "exp_candy_s": 0,
+        "exp_candy_m": 0,
+        "rename_tag": 0,
+        "box_upgrade": 0
+      },
+      "stats": {
+        "caught": 0,
+        "shinyCaught": 0,
+        "duelsWon": 0,
+        "duelsLost": 0
+      },
+      "cooldowns": {
+        "daily": 1776604515752
+      }
+    }
+  },
+  "spawns": {
+    "9176300605344420664_rush_0": {
+      "dexId": 5,
+      "createdAt": 1776650414639,
+      "expiresAt": 1776650714638,
+      "rushSlot": 0,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_1": {
+      "dexId": 25,
+      "createdAt": 1776650414639,
+      "expiresAt": 1776650714638,
+      "rushSlot": 1,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_2": {
+      "dexId": 5,
+      "createdAt": 1776650414639,
+      "expiresAt": 1776650714638,
+      "rushSlot": 2,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_3": {
+      "dexId": 1,
+      "createdAt": 1776650414639,
+      "expiresAt": 1776650714638,
+      "rushSlot": 3,
+      "tid": "9176300605344420664"
+    },
+    "9176300605344420664_rush_4": {
+      "dexId": 134,
+      "createdAt": 1776650414639,
+      "expiresAt": 1776650714638,
+      "rushSlot": 4,
+      "tid": "9176300605344420664"
+    },
+    "9021491468643662674_rush_0": {
+      "dexId": 64,
+      "createdAt": 1776650417197,
+      "expiresAt": 1776650717197,
+      "rushSlot": 0,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_1": {
+      "dexId": 8,
+      "createdAt": 1776650417197,
+      "expiresAt": 1776650717197,
+      "rushSlot": 1,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_2": {
+      "dexId": 150,
+      "createdAt": 1776650417197,
+      "expiresAt": 1776650717197,
+      "rushSlot": 2,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_3": {
+      "dexId": 40,
+      "createdAt": 1776650417197,
+      "expiresAt": 1776650717197,
+      "rushSlot": 3,
+      "tid": "9021491468643662674"
+    },
+    "9021491468643662674_rush_4": {
+      "dexId": 26,
+      "createdAt": 1776650417197,
+      "expiresAt": 1776650717197,
+      "rushSlot": 4,
+      "tid": "9021491468643662674"
+    }
+  }
+}
