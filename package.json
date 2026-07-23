@@ -39,6 +39,6 @@
     "uuid": "^14.0.0",
     "ws": "^8.20.0",
     "youtube-search-api": "^2.0.1",
-    "zca-api": "file:api-custom"
+    "zca-api": "github:VLjnh-New/ZCA-CUSTOM"
   }
 }
